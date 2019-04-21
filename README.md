@@ -2,7 +2,7 @@
 A Processing file that draws any regular polygon and runs the following algorithm:
 1. draws a random point
 2. chooses a random vertex on the polygon
-3. moves point coordinates to a position halfway between random vertex and last location
+3. moves point coordinates to a position halfway between random vertex and last location (in newer version, divisor can be any constant)
 4. draws a new point at location
 5. repeats steps 2-4 indefinetely
 
