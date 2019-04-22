@@ -1,4 +1,5 @@
 /*
+OPTIMAL C-VALUE FOR SIM MODES 0 AND 1:
 simMode 1:
  3-3.14
  4-2.125
