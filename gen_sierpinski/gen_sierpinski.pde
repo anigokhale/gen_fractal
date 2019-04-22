@@ -18,13 +18,13 @@ OPTIMAL C-VALUE FOR SIM MODES 0 AND 1:
 
 final double pi = 3.141592653589793238462643383279502; //thats pi duh
 
-final int n = 5; //number of sides to polygon
+final int n = 3; //number of sides to polygon
 
-final float c = 1.9; //constant for scaling of fractal
+final float c = 2; //constant for scaling of fractal
 
 final int numGens = 1000000; //number of generations to be executed at once
 
-final int simMode = 5; //chosen mode for random number picker (see chooseRandom method below)
+final int simMode = 0; //chosen mode for random number picker (see chooseRandom method below)
 
 final boolean col = true; //whether color is shown or not (can only work for up to 9 vertices)
 
