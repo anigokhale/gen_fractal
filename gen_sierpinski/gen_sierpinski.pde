@@ -24,7 +24,7 @@ final float c = 2; //constant for scaling of fractal
 
 final int numGens = 1000000; //number of generations to be executed at once
 
-final int simMode = 0; //chosen mode for random number picker (see chooseRandom method below)
+final int simMode = 3; //chosen mode for random number picker (see chooseRandom method below)
 
 final boolean col = true; //whether color is shown or not (can only work for up to 9 vertices)
 
